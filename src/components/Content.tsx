@@ -3,7 +3,7 @@ import { api } from "../services/api";
 import { MovieCard } from "./MovieCard";
 import { GenreResponse } from "./SideBar";
 
-import './styles/content.scss';
+import '../styles/content.scss';
 
 interface MovieResponse {
   imdbID: string;
